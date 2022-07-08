@@ -54,7 +54,7 @@ or go to the official website for more [instructions](https://docs.ipfs.io/insta
 
 When we’re using a public gateway, we’re receiving data from the public servers that the gateway exposes, which looks something like this:
 
-<TODO:ADD IMAGE IPFS NETWORK- > GATEWAY → Your Browser>
+![image](https://user-images.githubusercontent.com/75270610/178035618-73f28a45-ca2d-4190-8830-b71ff3b19872.png)
 
 once you’ve installed ipfs companion, try opening the [above cat image link](https://ipfs.io/ipfs/QmYKEp564QwWJEUuzAy4s8VcPnptFNGygaM7FoMaZkoC5t?filename=Cat.jpeg) once again.
 
@@ -64,7 +64,7 @@ You’ll notice that your URL changes to something similar to this (will be a bi
 
 This is ipfs companion altering the URL to use your local node. This means now you’re receiving the image directly from the network, and no third party gateways are being used!!
 
-<TODO:ADD IMAGE: IPFS NETWORK- > LocalNode → Your Browser>
+![image](https://user-images.githubusercontent.com/75270610/178035656-c5a02795-e93e-405a-9538-14b9c16c33c2.png)
 
 And that’s it we’ve successfully used IPFS to store and view data.
 
