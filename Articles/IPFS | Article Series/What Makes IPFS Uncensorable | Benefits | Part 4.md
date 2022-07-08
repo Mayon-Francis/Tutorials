@@ -34,11 +34,12 @@ Just like everything else, ipfs has it’s own share of drawbacks as well.
 
 ## Fileverse
 
-<Fileverse Writeup>
+###Fileverse Writeup
 
-We’ve been looking deep into what ipfs is over the past 4 articles. 
 
-Do give us a star, clap if you liked our work.
+If you enjoyed this article series, Do give us some claps.
+
+All aritcles can be seen here : https://github.com/UV-Labs/Tutorials
 
 Authors (open to feedback): 👇
 
